@@ -1,18 +1,33 @@
-<div align="center">
-
 # Hello, I'm Rakhman Seidigali
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer;Open-Source+Contributor"/>
-
+<div align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!;Backend+Student+Developer;Open-Source+Contributor"
+    alt="Typing intro"
+  />
 </div>
+
+<p align="center">
+  <a href="https://commedeschamps.dev/">commedeschamps.dev</a>
+</p>
 
 ---
 
 ## About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img
+  align="right"
+  alt="Coding"
+  width="360"
+  src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
+/>
 
-I'm a 2nd-year Software Engineering student at Astana IT University, passionate about building innovative solutions and continuously expanding my technical expertise. I focus on full-stack development and enjoy learning modern tools and frameworks.
+I'm a 2nd-year Software Engineering student at Astana IT University. I build clean,
+reliable backend services and enjoy shipping real projects while learning modern tools.
+
+- Focus: Java, Node.js, Express, REST
+- Interests: systems thinking, APIs, and product quality
+- Goal: internship with a team that ships and mentors
 
 ---
 
@@ -31,9 +46,9 @@ I'm a 2nd-year Software Engineering student at Astana IT University, passionate 
 
 ### Frameworks & Libraries
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
 ### Tools & Platforms
@@ -60,7 +75,7 @@ I'm a 2nd-year Software Engineering student at Astana IT University, passionate 
 
 <div align="center">
 
-### "*Code is poetry written in logic*"
+### "Code is poetry written in logic"
 
 <img src="https://komarev.com/ghpvc/?username=commedeschamps&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 
@@ -85,6 +100,6 @@ I'm a 2nd-year Software Engineering student at Astana IT University, passionate 
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 
 </div>
