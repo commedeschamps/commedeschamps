@@ -1,10 +1,6 @@
 # Hello there!
 
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:0f172a&height=160&section=header&text=Rakhman%20Seidigali&fontSize=40&fontColor=38F2FF&fontAlignY=40"
-    alt="Header banner"
-  />
   <p>
     <a href="https://commedeschamps.dev/">commedeschamps.dev</a>
   </p>
